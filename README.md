@@ -1,4 +1,5 @@
 # GallerieS3
+==========
 
 A PHP function that generates a Bootstrap Carousel Gallery from an S3 bucket or folder within it.
 
@@ -17,7 +18,7 @@ A PHP function that generates a Bootstrap Carousel Gallery from an S3 bucket or 
 
 ## Open Source
 
-This project relies on open source projects, including Bootstrap and Donovan Schönknecht's S3 Class.
+This project is open source, and relies on other open source projects including Bootstrap and Donovan Schönknecht's S3 Class.
 
 ## Contributing 
 
